@@ -14,7 +14,7 @@
 
 ## Synthetic experiments using simulated data:
 
-TODO
+The result for synthetic experiments using simulated data is provided in the Jupyter notebook named 'strategically-withheld-recourse-AISTATS-submission.ipynb'. Detailed dscriptions of the data generating process can be found in Section 8 of the paper. Running the notebook will reproduce Figure 2 and 3 in the main paper.
 
 # Citation
 
